@@ -32,7 +32,7 @@ npm install
 npm start
 ```
 
-- API Document endpoints
+- API endpoints
 
   romannumeral Endpoint : http://localhost:8080/romannumeral
 
